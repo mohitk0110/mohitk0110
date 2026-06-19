@@ -105,20 +105,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohit0110&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit0110&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit0110&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 Certifications
 
 🏅 Google Cloud Certified
