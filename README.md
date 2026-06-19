@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,5,12,20,24&text=Mohit%20Kaja&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20|%20MSRIT%20Bengaluru&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0,5,12,20,24&text=Kaja%20Mohit&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20(AIML)%20|%20MSRIT%20Bengaluru&descAlignY=62&descSize=18" />
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Deep+Learning+%7C+Computer+Vision;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
 </p>
 
-# 👋 Hey, I'm Mohit Kaja
+# 👋 Hey, I'm Kaja Mohit
 
 ### 🎓 CSE (AI & ML) Student | Ramaiah Institute of Technology, Bengaluru
 
